@@ -5,11 +5,12 @@
     </div>
   </div>
 </div>
-<nav class="navbar navbar-info bg-info">
+<nav class="navbar navbar-info bg-info ">
   <div class="container-fluid"> 
+  <a class="navbar-brand" href="#"><img src="button.png" alt="" width="160" height="100"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
   </div>
-  <a class="navbar-brand" href="#"><img src="button.png" alt="" width="160" height="100"></a>
+  
 </nav>
