@@ -62,7 +62,7 @@
               <button type="button" class="btn btn-danger">Delete</button>
               </a>
 
-              <a x-data="{ tooltip: 'Edite' }" href="/">
+              <a x-data="{ tooltip: 'Edit' }" href="edit/{{$customer->id}}">
               <button type="button" class="btn btn-success">Edit</button>
               </a>
 
